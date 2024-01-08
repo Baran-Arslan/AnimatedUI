@@ -55,7 +55,7 @@ The AnimatedUI package revolutionizes UI creation by seamlessly integrating anim
 ![image](https://github.com/Baran-Arslan/AnimatedUI/assets/130396326/c233f103-e1b2-4504-bdf1-89d0c8056522)
 
 
-No License, No Support:
+## No License, No Support:
 
 Enjoy effortless animations in Unity!
 
