@@ -3,7 +3,7 @@ using Sirenix.OdinInspector;
 
 
 namespace Common.iCare_UI.Runtime {
-    public class AnimatedImage : BaseResetable {
+    public sealed class AnimatedImage : BaseResetable {
         public bool ResetOnShow;
         
         public TweenAnimController ShowAnimation;
