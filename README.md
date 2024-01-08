@@ -46,20 +46,11 @@ The AnimatedUI package revolutionizes UI creation by seamlessly integrating anim
 
 ## Example
 
-[Include a brief code snippet or screenshot showcasing the simplicity and power of AnimatedUI in action.]
+![image](https://github.com/Baran-Arslan/AnimatedUI/assets/130396326/5ba339a1-eb43-470a-8fcc-0a393c6b1f27)
+![image](https://github.com/Baran-Arslan/AnimatedUI/assets/130396326/3e3e0175-9b9e-4548-8e7c-89bb97848a90)
+![image](https://github.com/Baran-Arslan/AnimatedUI/assets/130396326/7a58efa6-92c7-473e-89a5-94c727231486)
 
-## License
 
-[Specify the license under which the AnimatedUI package is distributed.]
+## API
+![image](https://github.com/Baran-Arslan/AnimatedUI/assets/130396326/64c70e9e-51ee-4fa2-b9bc-d7b2e1b959cd)
 
-## Contributions
-
-[Include information on how other developers can contribute to the project, if applicable.]
-
-## Support
-
-[Provide contact details or links to community forums for user support.]
-
-## Acknowledgments
-
-[Give credit to any third-party assets or libraries used in the development of AnimatedUI.]
