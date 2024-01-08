@@ -42,7 +42,8 @@ The AnimatedUI package revolutionizes UI creation by seamlessly integrating anim
 
 ## Dependencies
 
-- [TweenAnimController](examplelink.com): Explore advanced tween animations for enhanced UI effects.
+
+- [TweenAnimController](https://github.com/Baran-Arslan/TweenAnimation): My completely free tween animation package.
 
 ## Example
 
