@@ -52,5 +52,6 @@ The AnimatedUI package revolutionizes UI creation by seamlessly integrating anim
 
 
 ## API
-![image](https://github.com/Baran-Arslan/AnimatedUI/assets/130396326/64c70e9e-51ee-4fa2-b9bc-d7b2e1b959cd)
+![image](https://github.com/Baran-Arslan/AnimatedUI/assets/130396326/c233f103-e1b2-4504-bdf1-89d0c8056522)
+
 
