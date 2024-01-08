@@ -1,2 +1,65 @@
 # AnimatedUI
-Create ready-made UI with animations and sounds in one click.
+
+Simplify UI creation with automated animations and sound integration in a familiar way.
+
+## Overview
+
+The AnimatedUI package revolutionizes UI creation by seamlessly integrating animations and sounds with a straightforward process. Accessed through the Hierarchy window under "iCareUI," this package offers one-click generation of animated UI elements. Choose from options such as Animated Panel, Animated Button, Animated Image, Mobile Canvas, or PC Canvas, making the creation process intuitive and efficient.
+
+## Usage
+
+1. **Navigate to Hierarchy:**
+   - Right-click on the Hierarchy window.
+   - Go to "iCareUI" and select your desired option:
+     - Animated Panel
+     - Animated Button
+     - Animated Image
+     - Mobile Canvas
+     - PC Canvas
+
+2. **Automated Configuration:**
+   - The AnimatedUI package automatically adds the TweenAnimController package, setting presets based on the selected UI type.
+   - For instance, creating a button configures it with button-specific animations, complete with corresponding sounds.
+
+## Features
+
+- **Effortless UI Creation:** Mimics the standard UI creation process for familiarity and simplicity.
+  
+- **Automated Tweens:** The package automatically includes the TweenAnimController, tailoring animations and sounds based on the chosen UI element.
+
+- **Versatile Options:** Choose from a variety of animated UI elements, including panels, buttons, and images, catering to both mobile and PC platforms.
+
+## Getting Started
+
+1. **Installation:** Download and import the AnimatedUI package into your Unity project.
+
+2. **Accessing AnimatedUI:**
+   - Right-click on the Hierarchy window.
+   - Navigate to "iCareUI" and choose your desired animated UI element.
+
+3. **Enjoy Automated Animation:**
+   - Let AnimatedUI handle the animation and sound configurations automatically based on the selected UI type.
+
+## Dependencies
+
+- [TweenAnimController](examplelink.com): Explore advanced tween animations for enhanced UI effects.
+
+## Example
+
+[Include a brief code snippet or screenshot showcasing the simplicity and power of AnimatedUI in action.]
+
+## License
+
+[Specify the license under which the AnimatedUI package is distributed.]
+
+## Contributions
+
+[Include information on how other developers can contribute to the project, if applicable.]
+
+## Support
+
+[Provide contact details or links to community forums for user support.]
+
+## Acknowledgments
+
+[Give credit to any third-party assets or libraries used in the development of AnimatedUI.]
